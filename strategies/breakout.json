@@ -1,0 +1,11 @@
+{
+  "ema50_over_ema200": {
+    "enabled": true
+  },
+  "ema21_over_ema50": {
+    "enabled": true
+  },
+  "rsi_filter": {
+    "enabled": true
+  }
+}
